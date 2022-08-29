@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7medomar135791@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medtechnology/)
-[![website link]([website]()](http://dev-ahmedomar.me/portfolio/)
+[![website link](http://dev-ahmedomar.me/portfolio/)
 
 ##### Languages I use
 
