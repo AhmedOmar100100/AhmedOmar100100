@@ -3,7 +3,7 @@
 ##### Hi, I'm Ahmed Omar:
 
 - 🎓computer science graduate from Faculty Of Computers and Artificial Intelligence - Beni-Suef University
-- 🪐 Backend Web Developer (PHP - Laravel )
+- 🪐 I want to improve my level in Backend Web Developement (PHP - Laravel ) through courses and trainings
 - I have strong knowledge in frontend (Angular , Bootstrap 5 , Javascript , TypeScript, HTML5, CSS3)
 - I believe in Life Long Learning
 - :mailbox: You can reach me with the links below
