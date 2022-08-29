@@ -4,12 +4,13 @@
 
 - 🎓computer science graduate from Faculty Of Computers and Artificial Intelligence - Beni-Suef University
 - 🪐 Backend Web Developer (PHP - Laravel )
+- I have strong knowledge in frontend (Angular , Bootstrap 5 , Javascript , TypeScript, HTML5, CSS3)
 - I believe in Life Long Learning
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7medomar135791@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medtechnology/)
-[![website link]([website](https://cdn-icons-png.flaticon.com/512/1907/1907524.png))](http://dev-ahmedomar.me/portfolio/)
+[![website link]([website]()](http://dev-ahmedomar.me/portfolio/)
 
 ##### Languages I use
 
