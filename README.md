@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](https://i.im.ge/2022/08/30/OtVeWa.screenshot-rocks.png)](https://www.adamalston.com/)
 
 ##### Hi, I'm Ahmed Omar:
 
