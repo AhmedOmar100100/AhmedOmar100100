@@ -9,7 +9,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7medomar135791@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medtechnology/)
-[![dev-ahmedomar.me/portfolio/]([website](https://im.ge/i/Otf7BD?style=for-the-badge&logo=gmail&logoColor=white))](http://dev-ahmedomar.me/portfolio/)
+[![website link]([website](https://cdn-icons-png.flaticon.com/512/1907/1907524.png))](http://dev-ahmedomar.me/portfolio/)
 
 ##### Languages I use
 
